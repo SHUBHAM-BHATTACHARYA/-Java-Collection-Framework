@@ -11,5 +11,14 @@ public class Main {
         employeeAnalysis.departmentCount();
         employeeAnalysis.getPhoneList();
         employeeAnalysis.groupEmployeeByCity();
+        employeeAnalysis.groupEmployeesByAge();
+        employeeAnalysis.genderMapInDept();
+        employeeAnalysis.distinctDepartments();
+        employeeAnalysis.employeeAgeGreaterThan28();
+        employeeAnalysis.maximumAgeEmployee();
+        employeeAnalysis.averageAgeOfMaleAndFemaleEmployees();
+        employeeAnalysis.averageAgeOfMaleAndFemaleEmployeesEachDepartment();
+        employeeAnalysis.longestServingEmployees();
+        employeeAnalysis.longestServingEmployeesEachDepartment();
     }
 }
